@@ -1,2 +1,4 @@
 # trailblazer_squares
-odin project jquery project
+odin project jquery assignment
+zaboomafoo
+
